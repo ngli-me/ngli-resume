@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.21)  28 FEB 2021 12:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.21)  28 FEB 2021 12:27
 entering extended mode
 **"./resume v10.tex"
 ("resume v10.tex"
@@ -115,9 +115,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--82
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 82--82
-[]\OT1/qpl/m/n/10 Designing mod-ules to in-tro-duce ar-ti-fi-cial in-tel-li-gen
-ce into grades 6-8
+Underfull \hbox (badness 2753) in paragraph at lines 82--82
+[]\OT1/qpl/m/n/10 Designed mod-ules to in-tro-duce ar-ti-fi-cial in-tel-li-genc
+e into grades 6-8
  []
 
 
@@ -179,7 +179,7 @@ ps/tex-gyre/q-ts1.enc}{C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/enc/d
 vips/tex-gyre/q-rm.enc}<C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/tex-gyre/qplb.pfb><C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/tex-gyre/qplr.pfb>
-Output written on "resume v10.pdf" (1 page, 129662 bytes).
+Output written on "resume v10.pdf" (1 page, 129663 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
