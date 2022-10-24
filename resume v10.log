@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.21)  28 FEB 2021 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.21)  23 OCT 2022 23:03
 entering extended mode
 **"./resume v10.tex"
 ("resume v10.tex"
@@ -83,7 +83,12 @@ tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count188
 \l__pdf_internal_box=\box49
-) ("resume v10.aux")
+)
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
+("resume v10.aux")
 \openout1 = `"resume v10.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -100,65 +105,39 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 66.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 66.
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 6
-6.
+9.
 
 (C:\Users\darkl\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 87.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 87.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 82--82
-[]\OT1/qpl/m/n/10 Designed mod-ules to in-tro-duce ar-ti-fi-cial in-tel-li-genc
-e into grades 6-8
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 95--95
-[]\OT1/qpl/m/n/10 Scripted in Python and Win-dows batch to au-to-mate check-ing
- proper
+Underfull \hbox (badness 6758) in paragraph at lines 101--101
+[]\OT1/qpl/m/n/10 Developing ed-u-ca-tional Google Co-lab note-books to teach g
+rades 6-8
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
-[]\OT1/qpl/m/n/10 Designed with scal-a-bil-ity and easy mod-i-fi-ca-tion in min
-d, us-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 
  []
 
@@ -168,18 +147,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 ("resume v10.aux") ) 
 Here is how much of TeX's memory you used:
  1537 strings out of 479618
- 25609 string characters out of 2865026
- 314545 words of memory out of 3000000
+ 25569 string characters out of 2865026
+ 307546 words of memory out of 3000000
  18742 multiletter control sequences out of 15000+200000
  418029 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,9n,74p,267b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,9n,74p,179b,284s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
 ps/tex-gyre/q-ts1.enc}{C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/enc/d
 vips/tex-gyre/q-rm.enc}<C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/tex-gyre/qplb.pfb><C:/Users/darkl/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/tex-gyre/qplr.pfb>
-Output written on "resume v10.pdf" (1 page, 129663 bytes).
+Output written on "resume v10.pdf" (1 page, 124939 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
